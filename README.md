@@ -1,2 +1,2 @@
-# Civil-Engineering-Insight-Studio
+# AI &ML
 This is Gen Ai Project
